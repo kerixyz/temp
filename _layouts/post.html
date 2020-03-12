@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Keri Mallari | {{ page.title }}</title>
+        <meta name="author" content="Keri Mallari" />
+        <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
+        <!-- <link rel="shortcut icon" type="image/png" href="/resources/favicon.png"> -->
+    </head>
+    <div id="content">
+        <div id="intro">
+            <h1><a href="/">Keri Mallari</a></h1>
+        </div>
+        <div id="links" class="block">
+            <div class="link"><a href="/resources/resume.pdf">Resume</a></div>
+            <div class="link"><a href="/#research">Research</a></div>
+            <div class="link"><a href="/#experience">Experience</a></div>
+            <div class="link"><a href="/#contact">Contact</a></div>
+        </div>
+        <div class="post">
+            <h1>{{ page.title }}</h1>
+            <div class="date">{{ page.post_date }}</div>
+            {{ content }}
+        </div>
+        <div id="footer">
+            © 2020 - Keri Mallari
+        </div>
+    </div>
+</html>

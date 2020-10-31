@@ -1,8 +1,7 @@
 body{
     font-family: Helvetica, sans-serif;
     font-size: 16px;
-    background-color: #30353d;
-    /* background-color:#333; */
+    background-color: rgb(23, 25, 35);
     color: #ddd;
     line-height: 1.3em;
 }

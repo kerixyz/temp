@@ -6,12 +6,11 @@ body{
     line-height: 1.3em;
 }
 a{
-    color: #F4F4F8;
+    color: #FED766;
     text-decoration: none;
-    font-weight: bold;
 }
 a:hover{
-    color: FED766;
+    color: #FE4A49;
 }
 h1, h2, h3{
     color: #F4F4F8;

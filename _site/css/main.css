@@ -1,17 +1,16 @@
 body{
     font-family: Helvetica, sans-serif;
     font-size: 16px;
-    background-color: #30353d;
-    /* background-color:#333; */
-    color: #ddd;
+    background-color: #1E1E24;
+    color: #F4F4F8;
     line-height: 1.3em;
 }
 a{
-    color: #eee;
-    text-decoration: underline;
+    color: #F4F4F8;
+    text-decoration: none;
 }
 h1, h2, h3{
-    color:#eee;
+    color: #F4F4F8;
 }
 .post h1{
     line-height: 1.2em;
@@ -89,12 +88,12 @@ blockquote{
 
 #content{
     margin:30px auto;
-    width:700;
+    width: 700;
 }
 
 .project_block{
-    /* padding-left:6px;
-    border-left:2px solid #333; */
+    padding-left:6px;
+    border-left:2px solid #333;
 }
 .project{
     margin-bottom:1em;
@@ -157,5 +156,5 @@ blockquote{
 
 #footer{
     color:#505866;
-    /* text-align: center; */
+    text-align: center; 
 }

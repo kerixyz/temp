@@ -23,7 +23,7 @@ permalink: /internships/
         </div>
 
         <div class="project">
-            <h3>Intern, Microsoft Research</h3>
+            <h3>Intern, Microsoft Research (2020) </h3>
             <div class="description">
             Utilized computer vision using OCR and entity recognition to extract information and develop insights to support personal informationmanagement. Developed a full stack web application using nodejs and azure cognitive services. 
             </div>

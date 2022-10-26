@@ -4,7 +4,7 @@ title: Service
 permalink: /service/
 ---
 
-### ACM CSCW Organizing Committee, Web Chair 
+### Organizing Committee, Web Chair 
 - ACM CSCW (2022, 2023)
 - Responsible for creating and maintaining [ACM CSCW 2022](cscw.acm.org/2022/) and [2023](cscw.acm.org/2023/) website.
 - Works with other organizing committee members to update email aliases

@@ -3,6 +3,7 @@ layout: page
 title: Industry Experience
 permalink: /internships/
 ---
+Previous Internships and Experience
 <div id="experience" class="block">
     <p>
         I've spent my summers learning from really cool places and really smart folks below:
@@ -13,6 +14,7 @@ permalink: /internships/
             <div class="description">
                 Ran and analyzed user study on different video call interfaces for hybrid meetings. Prototyped features for video call interface using Unity.
             </div>
+            <div class="paper"><a href="https://www.youtube.com/watch?v=Zl5M5e1fxIA">Microsoft Research Summit Hybrid Meeting Prototype</a></div>
         </div>
 
         <div class="project">

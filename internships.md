@@ -10,6 +10,12 @@ Previous Internships and Experience
     </p>
     <div class="project_block">
         <div class="project">
+            <h3>Intern, Microsoft Research (2023)</h3>
+            <div class="description">
+                Doin cool stuff B)
+            </div>
+        </div>
+        <div class="project">
             <h3>Intern, Microsoft Research (2022)</h3>
             <div class="description">
                 Ran and analyzed user study on different video call interfaces for hybrid meetings. Prototyped features for video call interface using Unity.
